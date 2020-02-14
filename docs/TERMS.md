@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 Gonçalo Palaio built the Is it Friday? app as a Free app. This SERVICE is provided by Gonçalo Palaio at no cost and is intended for use as is.
 
@@ -16,7 +16,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services
+[https://www.google.com/policies/privacy/](Google Play Services)
 
 ## Log Data
 
