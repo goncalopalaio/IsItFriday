@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Is it Friday</string>
+    <string name="title">Is it Friday?</string>
+    <string name="message_negative">NO</string>
+    <string name="message_positive">YESSSSSS 🎉🎉🎉</string>
+    <string name="try_again">Try again</string>
+</resources>
