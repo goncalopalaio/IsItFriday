@@ -22,14 +22,15 @@ class MainViewModel : ViewModel() {
     private fun getResult(): Result {
         val c: Calendar = Calendar.getInstance()
         c.time = Date()
-        var day = c.get(Calendar.DAY_OF_WEEK)
+        val day = c.get(Calendar.DAY_OF_WEEK)
 
-
+        /*
         if (Random().nextBoolean()) {
             day = Calendar.MONDAY
         } else {
             day= Calendar.FRIDAY
         }
+        */
 
         return if (day == Calendar.FRIDAY) {
             Result.YES
